@@ -13,7 +13,7 @@
     <name>Java EE 8 Sample: ejb</name>
 
     <modules>
-        <module>remote</module>
+        <module>LOCAL, PRIMER CAMBIO CAMBIANDO REPO</module>
     </modules>
 
     <dependencies>
